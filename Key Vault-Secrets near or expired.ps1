@@ -1,7 +1,10 @@
-# This script requires an Azure Automation Account. `
-# That will monitor items and keys near or expired items, and post on a Teams using a Webhook(System Alerts Chanel) 
+<#
+- This script requires an Azure Automation Account. `
+- This will monitor items and keys near or already expired, 
+and if does, post into a Teams Channel using a Webhook(System Alerts Chanel)
 
-## Author: Felipe Augusto - Date: 09/03/2020
+Author: Felipe Augusto - Date: 09/03/2020 
+#>
 
 $connectionName = "AzureRunAsConnection"
 try
