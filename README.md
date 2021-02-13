@@ -1,4 +1,4 @@
-# EN - Welcome to my Public Repository 
+EN - Welcome to my Public Repository 
 
-# PT - Bem vindo ao meu Repositório Público 
+PT - Bem vindo ao meu Repositório Público 
 
